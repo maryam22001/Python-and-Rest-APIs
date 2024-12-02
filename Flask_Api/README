@@ -111,3 +111,5 @@ Here are some great resources to help you learn more about building REST APIs wi
 **[Python and REST APIs: Interacting With Web Services]:(https://realpython.com/api-integration-in-python/)** 
 
 
+
+Ps: you can test the API using postman or thunder extension in vs code
