@@ -29,29 +29,6 @@ If you plan to use a database, install SQLAlchemy.
 pip install SQLAlchemy
 ```
 
-### 5. Install Marshmallow (for data serialization) 📜
-For data serialization and validation, install Marshmallow.
-```bash
-pip install marshmallow
-```
-
-### 6. Install Flask-Migrate (for database migrations) 🔄
-If you need to handle database migrations, install Flask-Migrate.
-```bash
-pip install Flask-Migrate
-```
-
-### 7. Install Flask-JWT-Extended (for authentication) 🔐
-For handling authentication, install Flask-JWT-Extended.
-```bash
-pip install Flask-JWT-Extended
-```
-
-### 8. Verify Installations ✅
-Finally, verify that all packages are installed correctly.
-```bash
-pip list
-```
 
 Now you're all set to start building your Python REST API! 🎉 
 _____________________________________________
