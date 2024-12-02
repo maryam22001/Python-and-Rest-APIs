@@ -1,4 +1,4 @@
- Here are the installation steps for setting up a Python REST API, with some cute emojis to make it more fun! 🐍🚀
+ Here are the installation steps for setting up a Python REST API🐍🚀
 
 ### 1. Create a Virtual Environment 🌟
 First, create a virtual environment to keep your project dependencies isolated.
